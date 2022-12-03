@@ -40,7 +40,16 @@
                 </div>
             </div><!-- .widget -->
         </a>
+    </div>
 
+    <div class="col-md-9 col-sm-6">
+        <div class="widget stats-widget">
+            <div class="widget-body clearfix bg-deepOrange">
+                <p>Universitario: Diego Gustavo Chambi Quenta</p><br>
+                <p>CI: 12897299 L.P.</p>
+            </div>
+            
+        </div>
     </div>
 @endsection
 
